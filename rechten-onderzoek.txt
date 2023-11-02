@@ -1,0 +1,7 @@
+Create: Maakt nieuwe MySQL accounts aan.
+
+Index: Kan je gebruiken om specifieke informatie uit kolommen te vinden.
+
+Process: geeft de bewerkingen aan die momenteel worden uitgevoerd door de reeks threads die op de server worden uitgevoerd.
+
+Drop: Met Drop kan je gebruikersaccounts en hun rechten uit de database verwijderen.
